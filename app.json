@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "web": { "output": "server" },
+    "plugins": [
+      ["expo-router", { "origin": "https://<eas-deploy-adresiniz>/" }]
+    ]
+  }
+}

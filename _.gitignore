@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+*.apk
+*.aab
+
+# Sistem dosyaları
+.DS_Store
+*.log
+
+# Gizli anahtarlar (API anahtarı repoya girmez)
+.env

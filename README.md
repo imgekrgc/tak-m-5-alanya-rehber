@@ -16,3 +16,4 @@ Temel Kullanıcı Senaryoları
 1. Kullanıcının Alanya’da bir günlük tarihi gezi rotası oluşturması.
 2. Beğendiği bir turistik yere benzer yerlerin önerilmesi.
 3. Bir otel hakkındaki olumsuz yorumların yapay zekâ tarafından özetlenmesi.
+İlk geliştirme branch'i oluşturuldu

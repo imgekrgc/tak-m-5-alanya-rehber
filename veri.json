@@ -1,0 +1,75 @@
+{
+  "mekanlar": [
+    {
+      "id": "m01",
+      "ad": "Alanya Kalesi",
+      "tur": "tarih",
+      "metin": "Alanya yarımadasının tepesinde yükselen, Selçuklu döneminde 13. yüzyılda büyük ölçüde bugünkü hâlini alan surlu kale. Surlar, burçlar ve kale içindeki yapılar şehir ve deniz manzarasıyla birlikte gezilir. Tür: tarih. Bölge: Alanya merkez, kale yarımadası.",
+      "kaynak": "T.C. Kültür ve Turizm Bakanlığı, Kültür Portalı (kulturportali.gov.tr), Alanya Kalesi sayfası"
+    },
+    {
+      "id": "m02",
+      "ad": "Kızıl Kule",
+      "tur": "tarih",
+      "metin": "Selçuklu Sultanı I. Alaeddin Keykubad döneminde 1226'da yaptırılan, limanı koruyan sekizgen planlı taş kule. İçinde bir etnografya müzesi bulunur. Tür: tarih. Bölge: Alanya merkez, liman çevresi.",
+      "kaynak": "T.C. Kültür ve Turizm Bakanlığı, Kültür Portalı (kulturportali.gov.tr), Kızıl Kule sayfası"
+    },
+    {
+      "id": "m03",
+      "ad": "Alanya Tersanesi",
+      "tur": "tarih",
+      "metin": "Selçuklu döneminde 13. yüzyılda inşa edilen, günümüze ulaşan nadir ortaçağ tersanelerinden biri. Kızıl Kule ile aynı liman çevresinde yer alır. Tür: tarih. Bölge: Alanya merkez, liman çevresi.",
+      "kaynak": "T.C. Kültür ve Turizm Bakanlığı, Kültür Portalı (kulturportali.gov.tr), Alanya Tersanesi sayfası"
+    },
+    {
+      "id": "m04",
+      "ad": "Damlataş Mağarası",
+      "tur": "doğa",
+      "metin": "Sarkıt ve dikitleriyle bilinen, deniz kıyısındaki mağara; 1948'de liman yapım çalışmaları sırasında bulunmuştur. Tür: doğa. Bölge: Alanya merkez.",
+      "kaynak": "T.C. Kültür ve Turizm Bakanlığı, Kültür Portalı (kulturportali.gov.tr), Damlataş Mağarası sayfası"
+    },
+    {
+      "id": "m05",
+      "ad": "Kleopatra Plajı",
+      "tur": "plaj",
+      "metin": "Alanya merkezde, ince kumu ve berrak denizi ile bilinen plaj. Adını Kleopatra efsanesinden alır; bu bir rivayettir, tarihî kaynakla doğrulanmış değildir. Tür: plaj. Bölge: Alanya merkez.",
+      "kaynak": "Alanya Belediyesi turizm sayfası / Antalya İl Kültür ve Turizm Müdürlüğü, Alanya plajları"
+    },
+    {
+      "id": "m06",
+      "ad": "Alanya Müzesi",
+      "tur": "müze",
+      "metin": "Alanya ve çevresinden çıkan arkeolojik ve etnografik eserlerin sergilendiği müze. Bölgenin tarihine kapalı alanda ve toplu hâlde bakmak isteyenler için uygundur. Tür: müze. Bölge: Alanya merkez.",
+      "kaynak": "T.C. Kültür ve Turizm Bakanlığı, Kültür Portalı (kulturportali.gov.tr), Alanya Müzesi sayfası"
+    },
+    {
+      "id": "m07",
+      "ad": "Dim Mağarası",
+      "tur": "doğa",
+      "metin": "Toros Dağları'nın eteğinde, sarkıt ve dikitleriyle bilinen mağara; Dim Çayı vadisine yakındır. Tür: doğa. Bölge: Alanya doğusu, Dim Çayı yöresi.",
+      "kaynak": "Alanya Belediyesi turizm sayfası / Antalya İl Kültür ve Turizm Müdürlüğü, Dim Mağarası"
+    },
+    {
+      "id": "m08",
+      "ad": "Sapadere Kanyonu",
+      "tur": "doğa",
+      "metin": "Toros eteklerinde, yürüyüş yoluyla gezilen derin ve yeşil bir kanyon; kıyı turlarından farklı bir doğa rotası sunar. Tür: doğa. Bölge: Alanya kuzeyi, Toros etekleri.",
+      "kaynak": "Alanya Belediyesi turizm sayfası / Antalya İl Kültür ve Turizm Müdürlüğü, Sapadere Kanyonu"
+    },
+    {
+      "id": "m09",
+      "ad": "Syedra Antik Kenti",
+      "tur": "tarih",
+      "metin": "Alanya merkezin dışında, denize bakan bir tepede kalıntıları bulunan antik kent. Antik dönem yerleşimlerini görmek isteyenler için uygundur. Tür: tarih. Bölge: Alanya çevresi, Seki yöresi.",
+      "kaynak": "T.C. Kültür ve Turizm Bakanlığı, Kültür Portalı (kulturportali.gov.tr), Syedra Antik Kenti sayfası"
+    },
+    {
+      "id": "m10",
+      "ad": "Alarahan",
+      "tur": "tarih",
+      "metin": "Selçuklu döneminden kalma, Alara Çayı yakınındaki kervansaray; ticaret yolu üzerindeki konaklama yapısıdır. Tür: tarih. Bölge: Alanya batısı, Alara Çayı yöresi.",
+      "kaynak": "T.C. Kültür ve Turizm Bakanlığı, Kültür Portalı (kulturportali.gov.tr), Alarahan sayfası"
+    }
+  ],
+  "yorumlar": []
+}
